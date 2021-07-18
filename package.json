@@ -2,7 +2,7 @@
   "name": "trivia-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://127.0.0.1:5000/",
+  "proxy": "https://trivia-back-1.herokuapp.com/",
   "dependencies": {
     "corsproxy": "^0.2.14",
     "jquery": "^3.5.1",
